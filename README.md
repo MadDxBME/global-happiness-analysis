@@ -118,4 +118,9 @@ notebooks/happiness_analysis.ipynb
 
 ---
 
+## Dataset Source
 
+World Happiness dataset.  
+Source: [https://www.kaggle.com/datasets/samithsachidanandan/world-happiness-report-2020-2024]
+
+The dataset is publicly available and licensed for reuse.
