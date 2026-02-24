@@ -79,19 +79,20 @@ The Power BI dashboard includes:
 
 ## Repository Structure
 
+```
 data/
+  raw/        – Original dataset
+  processed/  – Cleaned dataset used for reporting
 
-raw/ – Original dataset
+notebooks/
+  01_happiness_eda.ipynb  – Python exploratory analysis
 
-processed/ – Cleaned dataset used for reporting
-
-notebooks/ – Python exploratory analysis
-
-powerbi/ – Power BI dashboard file
+powerbi/
+  Global_Happiness.pbix   – Power BI dashboard file
 
 requirements.txt
-
 README.md
+```
 
 ---
 
