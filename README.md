@@ -85,7 +85,7 @@ data/
   processed/  – Cleaned dataset used for reporting
 
 notebooks/
-  01_happiness_eda.ipynb  – Python exploratory analysis
+  happiness_analysis.ipynb  – Python exploratory analysis
 
 powerbi/
   Global_Happiness.pbix   – Power BI dashboard file
