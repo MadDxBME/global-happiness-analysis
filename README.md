@@ -80,11 +80,17 @@ The Power BI dashboard includes:
 ## Repository Structure
 
 data/
+
 raw/ – Original dataset
+
 processed/ – Cleaned dataset used for reporting
+
 notebooks/ – Python exploratory analysis
+
 powerbi/ – Power BI dashboard file
+
 requirements.txt
+
 README.md
 
 ---
